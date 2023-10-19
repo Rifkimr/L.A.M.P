@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "font1" ;
+    src: url("Montserrat-ExtraBoldItalic.ttf") format("ttf");
+}
+
+.font-1{
+    font-family: font1;
+}
